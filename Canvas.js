@@ -13,7 +13,4 @@ Canvas2D.prototype.drawImage = function(image, position) {
 
 let canvas = new Canvas2D();
 
-//Testing
-let image = new Image();
-image.src = "./assets/sprites/spr_background4.png";
 
